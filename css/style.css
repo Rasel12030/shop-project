@@ -1,0 +1,79 @@
+/* share font */
+.font {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #272727;
+  }
+  .back-color{
+    background-color: #ed95a8;
+  }
+  nav{display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+  }
+  h2{color: red;
+    font-size: 40px;
+    display: flex;
+
+  }
+  nav ul li{margin-left: 20px;
+    padding: 10px;
+
+  }
+  nav ul{ list-style: none; display: flex; 
+
+  }
+  nav ul li a {text-decoration: none 
+
+  }
+  nav ul li a:hover {background-color: antiquewhite;
+
+  }
+  header{
+    width: 1400px;
+  }
+  .container{
+    border: 1px solid red;
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    border: none;
+
+  }
+  .banner-text{
+    width: 50%;
+    margin: 100px 100px 0 100px;
+
+
+
+  }
+  .banner-img{
+    width: 50%;
+
+  }
+  main{
+    width: 1400px;
+  }
+  .h1-st{
+    font-size: 70px;
+    width: 900;
+
+  }
+  .p-st{
+
+  }
+  .b-color{
+    background-color: #E55473;
+    padding: 20px 43px;
+    font-weight: 20px;
+    padding: 20px;
+    border: none
+    ;border-radius: 10px;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
