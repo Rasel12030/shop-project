@@ -77,3 +77,17 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+.text-sty{
+  text-align: center;
+  height: 48px;
+  width: 392px;
+  text-align: center;
+}
+.text-sty-p{
+  text-align: center;
+}
+
+.img-sty{
+  flex: 100px;
+}
